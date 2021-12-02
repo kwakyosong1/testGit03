@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * Handles requests for the application home page.
  */
 // 여기는 홈콘트롤러
+// 여기는 홈콘트롤러2
 
 @Controller
 public class HomeController {
